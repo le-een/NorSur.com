@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');  
+
+ *{
+
+ margin:0;
+ padding: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+ list-style: none;
+  }
+
+ body {
+ font-family: 'Poppins',sans-serif;
+
+
+}
+
+.general {
+ background-image:url(../imagene/paiblanco.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size:cover;
+ height: 500px;
+ padding: 170px 55px  ;
+}
+
+.botn3 {
+
+    display: inline-block;
+    padding: 12px 45px;
+    border: 1px solid #fffdfc;
+    color: #fffdfc;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.botn3:hover {
+   color: #1b293a;
+   background-color: #fffdfc;
+
+
+}
+
+.botn4 {
+
+    display: inline-block;
+    padding: 12px 45px;
+    border: 1px solid #fffdfc;
+    color: #fffdfc;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.botn4:hover {
+   color: #1b293a;
+   background-color: #fffdfc;
+
+
+}
+
+.general1{
+ background-image:url(../imagene/paiblanco.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size:cover;
+ height: 450px;
+ padding: 170px 55px  ;
+}
+
+
+
+
+
+
+
